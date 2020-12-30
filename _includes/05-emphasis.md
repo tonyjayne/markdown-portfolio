@@ -1,0 +1,3 @@
+- being *cool*
+- being _calm_
+- being _*collected*_
